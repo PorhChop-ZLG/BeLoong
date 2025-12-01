@@ -34,7 +34,31 @@
 > 🚫 注意：整合包版权归原作者所有，二次发布需授权  
 
 <a id="english-version"></a>
-### 『BeLoong』🐉
-**A Dragon-Themed Minecraft Modpack**  
+# 🐉『BeLoong』— A Dragon-Themed Minecraft Modpack 🐉
+
+We welcome anyone to contribute to this project. You can help in the following areas:
+
+## How to Contribute
+
+Here are the detailed ways to contribute:
+
+- **Reporting BUGs and Suggestions**
+  - Use GitHub Issues for feedback. If you are a Chinese user, it is recommended to use [this form](https://docs.qq.com/sheet/DVXBVYnNDTnNWcGJF?tab=BB08J2).
+
+- **Writing Quests**
+  - We write quests in real-time on the modpack's built-in test server. You can contact the server administrators. **Do not submit on GitHub.**
+
+- **Creating Localization Translations**
+  - **FTB Quests Translations**: Submit in `config/ftbquests/quests/lang/`, using `zh_cn.snbt` (Chinese) as the base for translation.
+  - **Mods Translations**: Submit in `kubejs/assets/<mod namespace>/lang/`, using `en_us.json` (English) as the base for translation.
+  - **Translations for Other Content**: For example, custom items, added skills, dialogue systems, unique modifications, etc., submit in `kubejs/assets/kubejs/lang/`, using `zh_cn.json` (Chinese) as the base for translation.
+
+- **Creating Data Packs**: Submit in `/config/paxi/datapacks/`.
+
+- **Creating Resource Packs**: Submit in `/config/paxi/resourcepacks/`.
+
+- **Writing KubeJS Scripts**: Submit in the `kubejs` folder. For details, please read the corresponding README file.
+
+- **Other Modifications**: Requires Java programming skills. If interested, please contact the author.
 
 > 🚫 Note: Modpack copyright belongs to the original author, redistribution requires permission  
