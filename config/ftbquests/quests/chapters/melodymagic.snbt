@@ -1,0 +1,181 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "melodymagic"
+	group: "5EAD9A1417FDCCF3"
+	icon: {
+		components: {
+			"minecraft:container": [ ]
+		}
+		id: "melodymagic:collection"
+	}
+	id: "2C8C8E4BA7603921"
+	images: [
+		{
+			height: 5.0d
+			image: "melodymagic:item/note"
+			rotation: 0.0d
+			width: 5.0d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			height: 10.0d
+			image: "melodymagic:textures/gui/select.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 5.0d
+			y: 1.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"patchouli:book": "melodymagic:melodymagic_book"
+				}
+				id: "patchouli:guide_book"
+			}
+			id: "466B0E05A6EA4EF9"
+			rewards: [
+				{
+					id: "35249850ADA48C87"
+					item: {
+						components: {
+							"patchouli:book": "melodymagic:melodymagic_book"
+						}
+						count: 1
+						id: "patchouli:guide_book"
+					}
+					type: "item"
+				}
+				{
+					id: "215FBF4FE09BC2DA"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "6521108ADE5DE765"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["466B0E05A6EA4EF9"]
+			hide_dependency_lines: false
+			id: "5B9E398C385E0CA1"
+			rewards: [{
+				id: "717FBA70FF792E0D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "46EF19012CB1919A"
+				item: { count: 1, id: "melodymagic:morning_glory" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5B9E398C385E0CA1"]
+			id: "6569C5A41A6E2A8B"
+			rewards: [{
+				id: "7B8C381BDDB961E8"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "088DAA56AC799D84"
+				item: { count: 1, id: "melodymagic:sound_collection" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			id: "68D3E1EE4430058B"
+			rewards: [{
+				id: "5BE41E2D1C3C1B38"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "29D05104FB2544E3"
+				item: { count: 1, id: "melodymagic:continue_sound_collection" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["466B0E05A6EA4EF9"]
+			id: "41730E21EC74028B"
+			rewards: [{
+				id: "7D36BB7F9AD44F81"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0C664EC270D34288"
+				item: { count: 1, id: "melodymagic:collection_display" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["41730E21EC74028B"]
+			id: "3C61FDB8C2F40DA0"
+			rewards: [{
+				id: "254B2D33817ADFCD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1813458B87B5942E"
+				item: { count: 1, id: "melodymagic:collection" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5B9E398C385E0CA1"]
+			id: "5B2CCEEB773406E5"
+			rewards: [{
+				id: "0095BAD42BEC905A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0F6E3F9DA050B2DC"
+				item: { count: 1, id: "melodymagic:sound_player_block" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			id: "3F1070639631EEC4"
+			rewards: [{
+				id: "36385174CEB122E6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "09465425EEB380C0"
+				item: { count: 1, id: "melodymagic:record_book" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+	]
+}
