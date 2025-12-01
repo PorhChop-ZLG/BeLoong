@@ -1,0 +1,17 @@
+{
+  "text.structurecredits.message": "§a欢迎来到 %1$s §7- §e来自 %2$s",
+  "text.structurecredits.message_dimensional_dungeon": "§a欢迎来到 %1$s §7- §e来自 %2$s",
+
+  "text.structurecredits.message_no_creator": "§a欢迎来到 %1$s",
+  "text.structurecredits.message_no_creator_dimensional_dungeon": "§a欢迎来到 %1$s",
+
+  "category.structurecredits.keys": "结构标题",
+  "key.structurecredits.deactivate_key": "禁用结构信息",
+  "text.structurecredits.deactivated": "§7结构信息已被禁用。",
+  "text.structurecredits.activated": "§7结构信息已被启用。",
+
+  "key.structurecredits.show_again_key": "再次显示结构信息",
+  "key.structurecredits.dont_show_key": "不再显示此结构",
+  "text.structurecredits.dont_show": "§7此结构将不会显示任何信息。",
+  "text.structurecredits.already_dont_show": "§7此结构已设置为不显示信息。"
+}

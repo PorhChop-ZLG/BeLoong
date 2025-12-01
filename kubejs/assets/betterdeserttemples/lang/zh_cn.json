@@ -1,0 +1,17 @@
+{
+  "betterdeserttemples.advancements.root.title": "YUNG的沙漠神殿优化",
+  "betterdeserttemples.advancements.root.description": "沙漠深处，隐藏着远古的秘密…",
+  "betterdeserttemples.advancements.temple_clear.title": "永恒长眠",
+  "betterdeserttemples.advancements.temple_clear.description": "击败法老王，解除神殿的诅咒",
+  "betterdeserttemples.advancements.temple_entry.title": "远古陵墓",
+  "betterdeserttemples.advancements.temple_entry.description": "发现一座改良沙漠神殿",
+  
+  "Use /locate structure betterdeserttemples:desert_temple instead!": "请改用指令 /locate structure betterdeserttemples:desert_temple 定位！",
+
+  "text.autoconfig.betterdeserttemples-fabric-1_21.title": "YUNG的沙漠神殿优化",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids": "禁用原版沙漠神殿",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids.@Tooltip": "是否禁用原版沙漠神殿的生成",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue": "启用挖掘疲劳",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[0]": "是否对神殿内的玩家施加挖掘疲劳效果",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[1]": "（仅在神殿未被清理时生效）"
+}

@@ -1,0 +1,39 @@
+{
+  "dragonsurvival.advancement.aether/be_dragon": "腾云驾雾",
+  "dragonsurvival.advancement.aether/be_dragon.desc": "成为一条以太龙。",
+  "dragonsurvival.advancement.aether/be_old_dragon": "天庭之主",
+  "dragonsurvival.advancement.aether/be_old_dragon.desc": "身为以太龙成长至60成长等级。",
+
+  "item.kubejs.tundra_icon": "苔原龙图标",
+  "item.kubejs.tundra_full_icon": "苔原龙完整图标",
+
+  "item.kubejs.slime_crown": "史莱姆皇冠",
+  "item.kubejs.slime_crown.tooltip": "只能在深暗之园的特定结构处召唤史莱姆王",
+  "item.kubejs.suspicious_looking_eye": "可疑眼球",
+  "item.kubejs.suspicious_looking_eye.tooltip": "只能在深暗之园的特定结构处召唤克苏鲁之眼",
+  "item.kubejs.worm_food": "蠕虫诱饵",
+  "item.kubejs.worm_food.tooltip": "只能在深暗之园的特定结构处召唤世界吞噬怪",
+  "item.kubejs.bloody_spine": "血腥脊椎",
+  "item.kubejs.bloody_spine.tooltip": "只能在深暗之园的特定结构处召唤克苏鲁之脑",
+  "item.kubejs.abeemination": "憎恶之蜂",
+  "item.kubejs.abeemination.tooltip": "只能在深暗之园的特定结构处召唤蜂王",
+
+  "message.kubejs.back": "输入 /back 返回上次死亡的地方",
+  "message.kubejs.starter_hut": "新手小屋已生成，欢迎回家。",
+  "message.kubejs.longyin_pavilion": "龙吟阁已生成，欢迎回家。",
+  "message.kubejs.chinese_courtyard": "中式庭院已生成，欢迎回家。",
+
+  "death.attack.cataclysm.storm_bringer": "%s被船锚贯穿身体",
+
+  "ui.fancymenu.singleplayer": "单人游戏",
+  "ui.fancymenu.multiplayer": "多人游戏",
+  "ui.fancymenu.mods": "模组",
+  "ui.fancymenu.options": "设置",
+  "ui.fancymenu.quit": "退出",
+  "ui.fancymenu.server1": "星遥游戏",
+  "ui.fancymenu.server1.desc": "联机推荐 - 星遥游戏",
+  "ui.fancymenu.server2": "星叶云联",
+  "ui.fancymenu.server2.desc": "联机推荐 - 星叶云联",
+  "ui.fancymenu.afdian1": "【赞助作者】",
+  "ui.fancymenu.afdian2": "点击图片前往爱发电"
+}

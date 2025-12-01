@@ -1,0 +1,11 @@
+{
+  "key": "qinglong_horns",
+  "texture": "dragonsurvival:textures/dragon/custom/qinglong_horns.png",
+  "average_hue": 0.5833333333333334,
+  "applicable_species": [
+    "dragonsurvival:aether_dragon_human"
+  ],
+  "applicable_bodies": [
+    "dragonsurvival:aether_body_human"
+  ]
+}

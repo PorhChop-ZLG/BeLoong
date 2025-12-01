@@ -1,0 +1,6 @@
+{
+  "gui.lionfishapi.optifine.message": "OptiFine与各种模组之间存在严重兼容性问题！",
+  "gui.lionfishapi.optifine.sodiumsuggestions": "建议改用优化模组Sodium",
+  "gui.lionfishapi.optifine.oculussuggestions": "建议改用着色器模组Oculus",
+  "gui.lionfishapi.optifine.title": "请停止使用OptiFine！"
+}

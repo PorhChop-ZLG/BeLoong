@@ -1,0 +1,15 @@
+{
+  "species": "dragonsurvival:aether_dragon_human",
+  "stage": "dragonsurvival:aether_ancient_human",
+  "model": "dragonsurvival:qinglong",
+  "parts": {
+    "base": "aether_base_human",
+    "bottom": "qinglong_skirt",
+    "horns": "qinglong_horns",
+    "spikes": "qinglong_hair",
+    "magic": "qinglong_shirt",
+    "extra1": "qinglong_tail",
+    "extra2": "qinglong_crown",
+    "extra3": "qinglong_hairpin"
+  }
+}

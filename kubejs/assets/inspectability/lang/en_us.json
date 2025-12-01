@@ -1,0 +1,9 @@
+{
+  "category.inspectability": "Inspectability",
+  "key.inspectability.openiteminspector": "Open Item Inspector",
+
+  "tooltip.inspectability.move": "Click and drag to move.",
+  "tooltip.inspectability.reposition": "Right-click to reposition.",
+  "tooltip.inspectability.rotate": "Left-click to rotate.",
+  "tooltip.inspectability.zoom": "Scroll the mouse wheel to zoom."
+}

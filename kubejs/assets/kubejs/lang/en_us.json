@@ -1,0 +1,39 @@
+{
+  "dragonsurvival.advancement.aether/be_dragon": "Flight of the Sky Dragon",
+  "dragonsurvival.advancement.aether/be_dragon.desc": "Turn into a aether dragon.",
+  "dragonsurvival.advancement.aether/be_old_dragon": "Aether's Ascendant",
+  "dragonsurvival.advancement.aether/be_old_dragon.desc": "Gain level 60 growth as a aether dragon.",
+
+  "item.kubejs.tundra_icon": "Tundra Icon",
+  "item.kubejs.tundra_full_icon": "Tundra Full Icon",
+
+  "item.kubejs.slime_crown": "Slime Crown",
+  "item.kubejs.slime_crown.tooltip": "Can only be used in the Undergarden",
+  "item.kubejs.suspicious_looking_eye": "Suspicious Looking Eye",
+  "item.kubejs.suspicious_looking_eye.tooltip": "Can only be used in the Undergarden",
+  "item.kubejs.worm_food": "Worm Food",
+  "item.kubejs.worm_food.tooltip": "Can only be used in the Undergarden",
+  "item.kubejs.bloody_spine": "Bloody Spine",
+  "item.kubejs.bloody_spine.tooltip": "Can only be used in the Undergarden",
+  "item.kubejs.abeemination": "Abeemination",
+  "item.kubejs.abeemination.tooltip": "Can only be used in the Undergarden",
+
+  "message.kubejs.back": "Type /back to return to your death point",
+  "message.kubejs.starter_hut": "The starter hut has been generated. Welcome home.",
+  "message.kubejs.longyin_pavilion": "The Longyin Pavilion has been generated. Welcome home.",
+  "message.kubejs.chinese_courtyard": "The Chinese Courtyard has been generated. Welcome home.",
+
+  "death.attack.cataclysm.storm_bringer": "%s was impaled by an anchor",
+
+  "ui.fancymenu.singleplayer": "Singleplayer",
+  "ui.fancymenu.multiplayer": "Multiplayer",
+  "ui.fancymenu.mods": "Mods",
+  "ui.fancymenu.options": "Options",
+  "ui.fancymenu.quit": "Quit",
+  "ui.fancymenu.server1": "Star Carefree",
+  "ui.fancymenu.server1.desc": "Recommend - Star Carefree",
+  "ui.fancymenu.server2": "XyeBBS",
+  "ui.fancymenu.server2.desc": "Recommend - XyeBBS",
+  "ui.fancymenu.afdian1": "[Support the author]",
+  "ui.fancymenu.afdian2": "Click on the image to visit the sponsorship website"
+}

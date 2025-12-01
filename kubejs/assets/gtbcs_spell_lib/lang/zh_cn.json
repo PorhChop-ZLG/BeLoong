@@ -1,0 +1,6 @@
+{
+  "item.gtbcs_spell_lib.spell_imbuing_curio.already_assigned.message": "无法为同一回响注入其他法术！",
+  "item.gtbcs_spell_lib.spell_imbuing_curio.not_enough_xp.message": "经验值不足！",
+  "item.gtbcs_spell_lib.spell_imbuing_curio.success": "法术注入成功！",
+  "item.gtbcs_spell_lib.random_imbue_curio.ex_required.tooltip": "需要经验值！"
+}

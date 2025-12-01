@@ -1,0 +1,23 @@
+{
+  "armorstatues.dataSync.failure": "无法修改盔甲架数据：%s",
+  "armorstatues.dataSync.failure.noArmorStand": "未找到有效盔甲架",
+  "armorstatues.dataSync.failure.noPermission": "权限不足",
+  "armorstatues.dataSync.failure.notFinished": "队列尚未清空",
+  "armorstatues.dataSync.failure.outOfRange": "超出范围",
+  "armorstatues.dataSync.finished": "已发送队列中的盔甲架数据",
+  "armorstatues.screen.vanillaTweaks.checkTarget": "检测盔甲架目标",
+  "armorstatues.screen.vanillaTweaks.checkTarget.description": "高亮显示玩家三格范围内最近的盔甲架目标。由于数据包机制，当前操作的盔甲架不一定是通过菜单开启的盔甲架本体。",
+  "armorstatues.screen.vanillaTweaks.lock": "锁定",
+  "armorstatues.screen.vanillaTweaks.lock.description": "锁定盔甲架将禁止通过菜单修改属性，并禁用装备槽交互功能。",
+  "armorstatues.screen.vanillaTweaks.swapMainhandAndHead": "交换主手与头盔",
+  "armorstatues.screen.vanillaTweaks.swapMainhandAndHead.description": "交换主手装备槽与头盔装备槽中的物品。",
+  "armorstatues.screen.vanillaTweaks.swapMainhandAndOffhand": "交换主手与副手",
+  "armorstatues.screen.vanillaTweaks.swapMainhandAndOffhand.description": "交换主手装备槽与副手装备槽中的物品。",
+  "armorstatues.screen.vanillaTweaks.toolRack": "工具架对齐模式",
+  "armorstatues.screen.vanillaTweaks.toolRack.description": "将盔甲架与上方墙面的绊线钩对齐，使其主手持有的工具呈现悬挂效果。此操作将自动锁定盔甲架并禁用除主手外的所有装备槽。",
+  "armorstatues.screen.vanillaTweaks.triggerSent": "指令已发送！",
+  "armorstatues.screen.vanillaTweaks.unlock": "解锁",
+  "armorstatues.screen.vanillaTweaks.unlock.description": "解锁盔甲架将恢复先前锁定操作所修改的所有属性。",
+  "statuemenus.screen.type.alignments": "对齐设置",
+  "statuemenus.screen.type.vanillaTweaks": "原版调整"
+}

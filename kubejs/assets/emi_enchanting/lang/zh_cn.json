@@ -1,0 +1,16 @@
+{
+  "emi.category.emi_enchanting.enchantments": "魔咒信息",
+  "emi_enchanting.yes_good": "§0是",
+  "emi_enchanting.no_good": "§4否",
+  "emi_enchanting.yes_bad": "§4是",
+  "emi_enchanting.no_bad": "§0否",
+  "emi_enchanting.treasure": "宝藏：%s",
+  "emi_enchanting.curse": "诅咒：%s",
+  "emi_enchanting.tradeable": "村民交易：%s",
+  "emi_enchanting.random": "随机可选：%s",
+  "emi_enchanting.maxLvl": "最大等级：%s",
+  "emi_enchanting.valid_items": "有效物品",
+  "emi_enchanting.description": "魔咒描述",
+  "emi_enchanting.exclusions": "不共存魔咒",
+  "enchantment.emi_enchanting.unknown.desc": "未知魔咒"
+}

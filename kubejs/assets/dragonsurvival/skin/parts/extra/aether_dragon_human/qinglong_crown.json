@@ -1,0 +1,11 @@
+{
+  "key": "qinglong_crown",
+  "texture": "dragonsurvival:textures/dragon/custom/qinglong_crown.png",
+  "average_hue": 0.08768939393939393,
+  "applicable_species": [
+    "dragonsurvival:aether_dragon_human"
+  ],
+  "applicable_bodies": [
+    "dragonsurvival:aether_body_human"
+  ]
+}
