@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "particle": {
+    "particleLimit": 16384,
+    "removeIfMissedTick": false,
+    "particleLightCache": true,
+    "cullUnderwaterParticleType": true
+  },
+  "tick": {
+    "animationTickMode": "INTERRUPTIBLE",
+    "particleTickMode": "INTERRUPTIBLE",
+    "tickWeatherAsync": true,
+    "failPerSecLimit": 5,
+    "failBehavior": "RAISE_CRASH",
+    "suppressCME": false
+  },
+  "rendering": {
+    "particleCulling": "SPHERE",
+    "particleRenderingMode": "DELAYED",
+    "cullWeathers": true,
+    "failPerSecLimit": 20,
+    "failBehavior": "MARK_AS_SYNC"
+  },
+  "valkyrienSkies": {
+    "rainEffect": "STATIONARY",
+    "fixParticleLights": true
+  },
+  "create": {
+    "rainEffect": "STATIONARY"
+  },
+  "cooParticlesAPI": {
+    "tickMode": "ASYNC_IN_PARALLEL"
+  }
+}
