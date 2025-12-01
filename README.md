@@ -34,7 +34,7 @@
 > 🚫 注意：整合包版权归原作者所有，二次发布需授权  
 
 <a id="english-version"></a>
-# 🐉『BeLoong』— A Dragon-Themed Minecraft Modpack 🐉
+# 🐉『BeLoong』- A Dragon-Themed Modpack 🐉
 
 We welcome anyone to contribute to this project. You can help in the following areas:
 
