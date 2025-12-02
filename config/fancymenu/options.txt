@@ -26,7 +26,7 @@ B:game_intro_fade_out = 'true';
 B:show_custom_window_icon = 'false';
 S:custom_window_icon_macos = '';
 S:custom_window_icon_32 = '';
-S:custom_window_title = 'BeLoong 1.1.1';
+S:custom_window_title = 'BeLoong Beta 1.1.2';
 S:custom_window_icon_16 = '';
 
 
