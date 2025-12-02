@@ -1,9 +1,0 @@
-{
-  "isWhitelist": true,
-  "list": [
-    "$eminecraftservices.com",
-    "$emojang.com",
-    "$eminecraft.net"
-  ],
-  "allowServerConnects": true
-}
