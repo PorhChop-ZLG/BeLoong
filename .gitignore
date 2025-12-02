@@ -27,6 +27,7 @@ servers.dat
 config/**
 
 !config/fancymenu/
+!config/fancymenu/**
 !config/ftbquests/
 !config/ftbquests/**
 !config/iceandfire/
