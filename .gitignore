@@ -33,6 +33,8 @@ usernamecache.json
 # ---- 仅追踪部分 config ----
 config/**
 
+!config/artifacts/
+!config/artifacts/**
 !config/fancymenu/
 !config/fancymenu/**
 !config/ftbquests/
