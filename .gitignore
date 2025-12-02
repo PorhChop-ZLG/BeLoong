@@ -1,6 +1,7 @@
 # ---- GitHub 忽略文件夹 ----
 .mixin.out/
 BeLoong-natives/
+crash-reports/
 CustomSkinLoader/
 defaultconfigs/
 downloads/
@@ -53,6 +54,10 @@ config/**
 !config/voicechat/
 !config/voicechat/**
 
+!config/alshanex_familiars-common.toml
+!config/appleskin-client.toml
+!config/asteorbar-client.toml
+!config/asyncparticles.properties
 !config/carryon-client.toml
 !config/carryon-common.toml
 !config/cataclysm.toml
@@ -67,6 +72,11 @@ config/**
 !config/eternal_starlight.json
 !config/irons_spellbooks-client.toml
 !config/irons_spellbooks-server.toml
+!config/tslatentitystatus-client.toml
+!config/twilightforest-client.toml
+!config/twilightforest-common.toml
+!config/undergarden-client.toml
+!config/undergarden-common.toml
 !config/yes_steve_model-client.toml
 !config/yes_steve_model-common.toml
 !config/yes_steve_model-server.toml
