@@ -1,0 +1,2224 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "curios_collection"
+	group: "6B7CC0230CA6913F"
+	id: "43E849014FFC7520"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "54A9EA09DB80D187"
+			rewards: [{
+				id: "2AC4240F601BB237"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [
+				{
+					id: "31B163073FCB8C73"
+					item: { count: 1, id: "artifacts:night_vision_goggles" }
+					type: "item"
+				}
+				{
+					id: "7B590A5AC026B6D7"
+					item: { count: 1, id: "artifacts:villager_hat" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "0B21BEEF0BACA869"
+			rewards: [{
+				id: "3017CF90991E1D27"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [
+				{
+					id: "61A6F92768709F11"
+					item: { count: 1, id: "artifacts:superstitious_hat" }
+					type: "item"
+				}
+				{
+					id: "015A7BE83D887A0D"
+					item: { count: 1, id: "artifacts:novelty_drinking_hat" }
+					type: "item"
+				}
+				{
+					id: "2C421F00ACDB45A4"
+					item: { count: 1, id: "artifacts:plastic_drinking_hat" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			id: "2F3416393FD59904"
+			rewards: [{
+				id: "50DE12DD7F371FE9"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.3d
+			tasks: [{
+				id: "243BD1F709BDC7FE"
+				item: { count: 1, id: "artifacts:snorkel" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "1B49BF139BC95806"
+			rewards: [{
+				id: "24A00B24C6A34C3E"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [
+				{
+					id: "2436E58C8B88F0AC"
+					item: { count: 1, id: "artifacts:cowboy_hat" }
+					type: "item"
+				}
+				{
+					id: "3C1BEBDB6238455C"
+					item: { count: 1, id: "artifacts:anglers_hat" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			id: "16B32CB0D55A9718"
+			rewards: [{
+				id: "778265C9689DCB5B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [
+				{
+					id: "0B2F324C1576B509"
+					item: { count: 1, id: "artifacts:charm_of_shrinking" }
+					type: "item"
+				}
+				{
+					id: "18B645C305460A45"
+					item: { count: 1, id: "irons_spellbooks:concentration_amulet" }
+					type: "item"
+				}
+				{
+					id: "3579C49C7ABEC4D3"
+					item: { count: 1, id: "darkdoppelganger:elder_necklace" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "145D2D48D83B6D72"
+			rewards: [{
+				id: "70E4D7B97ED2A4E4"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [
+				{
+					id: "616DAE6B177A9A98"
+					item: { count: 1, id: "artifacts:lucky_scarf" }
+					type: "item"
+				}
+				{
+					id: "52C1E76C4DB77307"
+					item: { count: 1, id: "darkdoppelganger:summons_necklace" }
+					type: "item"
+				}
+				{
+					id: "68A3DB081D75FC22"
+					item: { count: 1, id: "artifacts:shock_pendant" }
+					type: "item"
+				}
+				{
+					id: "316DFFFA3AB9D5C8"
+					item: { count: 1, id: "artifacts:flame_pendant" }
+					type: "item"
+				}
+				{
+					id: "67ADF31D56E0B1CB"
+					item: { count: 1, id: "irons_spellbooks:amethyst_resonance_charm" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			id: "7C41D5EB11A83677"
+			rewards: [{
+				id: "4B2A737166E57303"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.3d
+			tasks: [
+				{
+					id: "6F9A28988DD85391"
+					item: { count: 1, id: "artifacts:thorn_pendant" }
+					type: "item"
+				}
+				{
+					id: "0554BA9C7AFABA63"
+					item: { count: 1, id: "irons_spellbooks:conjurers_talisman" }
+					type: "item"
+				}
+				{
+					id: "66A1680094228BD3"
+					item: { count: 1, id: "irons_spellbooks:heavy_chain_necklace" }
+					type: "item"
+				}
+				{
+					id: "372A523E8BFB49A6"
+					item: { count: 1, id: "artifacts:panic_necklace" }
+					type: "item"
+				}
+				{
+					id: "4F2620FBDABA889F"
+					item: { count: 1, id: "artifacts:cross_necklace" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			id: "386CC89DE12CDBE2"
+			rewards: [{
+				id: "07109517F1BFAD20"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [
+				{
+					id: "47C55EAB2509CF00"
+					item: { count: 1, id: "artifacts:charm_of_sinking" }
+					type: "item"
+				}
+				{
+					id: "7E51A745AD602959"
+					item: { count: 1, id: "artifacts:scarf_of_invisibility" }
+					type: "item"
+				}
+				{
+					id: "49FF764F2CC3846C"
+					item: { count: 1, id: "irons_spellbooks:teleportation_amulet" }
+					type: "item"
+				}
+				{
+					id: "45941CA5C980F7C8"
+					item: { count: 1, id: "gametechbcs_spellbooks:amulet_of_spectral_shift" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 6.5d
+		}
+		{
+			id: "3E9235C058186DC1"
+			rewards: [{
+				id: "76950E501279BC8A"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [
+				{
+					id: "6D258739F529F51C"
+					item: { count: 1, id: "cataclysm:blazing_grips" }
+					type: "item"
+				}
+				{
+					id: "5E3ECCD9D52B7A1D"
+					item: { count: 1, id: "artifacts:power_glove" }
+					type: "item"
+				}
+				{
+					id: "5DDDABC0E50C0A0E"
+					item: { count: 1, id: "artifacts:vampiric_glove" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "41DB497093B18B47"
+			rewards: [{
+				id: "0845C1E7C5667A74"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [
+				{
+					id: "4962A21ED3134E9E"
+					item: { count: 1, id: "artifacts:withered_bracelet" }
+					type: "item"
+				}
+				{
+					id: "3732BFCD5A07EC8F"
+					item: { count: 1, id: "artifacts:feral_claws" }
+					type: "item"
+				}
+				{
+					id: "6B6610093F737C8C"
+					item: { count: 1, id: "artifacts:pocket_piston" }
+					type: "item"
+				}
+				{
+					id: "4C5F5FE932740116"
+					item: { count: 1, id: "artifacts:fire_gauntlet" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			id: "4F9732AC25D1D1CA"
+			rewards: [{
+				id: "7953222AE0B1707C"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.3d
+			tasks: [
+				{
+					id: "1B38EC983DED841F"
+					item: { count: 1, id: "artifacts:digging_claws" }
+					type: "item"
+				}
+				{
+					id: "5F3BAFDE87BC0A68"
+					item: { count: 1, id: "artifacts:golden_hook" }
+					type: "item"
+				}
+				{
+					id: "62FEA1E9B649F842"
+					item: { count: 1, id: "artifacts:pickaxe_heater" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			id: "61DA1759088CDA4D"
+			rewards: [{
+				id: "58CD6022C7E135A7"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [
+				{
+					id: "1A30694B117779E7"
+					item: { count: 1, id: "cataclysm:sticky_gloves" }
+					type: "item"
+				}
+				{
+					id: "7D9A549EF82E26F1"
+					item: { count: 1, id: "artifacts:onion_ring" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 6.5d
+		}
+		{
+			id: "5D56B0917C5223A6"
+			rewards: [{
+				id: "685A64450FCA1970"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [
+				{
+					id: "2B7A17E5C96A9CB1"
+					item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "darkdoppelganger:doppel_portal", index: 0, level: 1, locked: 1b }], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "darkdoppelganger:doppelganger_ring" }
+					type: "item"
+				}
+				{
+					id: "0CC6C10F3E42157A"
+					item: { count: 1, id: "irons_spellbooks:affinity_ring" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			id: "217D19EC778156E9"
+			rewards: [{
+				id: "16311BDF3641DA17"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [
+				{
+					id: "3A950D0126C8A996"
+					item: { count: 1, id: "irons_spellbooks:betrayer_signet" }
+					type: "item"
+				}
+				{
+					id: "0927CAA3C436E8EB"
+					item: { count: 1, id: "irons_spellbooks:visibility_ring" }
+					type: "item"
+				}
+				{
+					id: "7EBF7DE63FA26F83"
+					item: { count: 1, id: "irons_spellbooks:poisonward_ring" }
+					type: "item"
+				}
+				{
+					id: "50B726AD5930FF3E"
+					item: { count: 1, id: "irons_spellbooks:frostward_ring" }
+					type: "item"
+				}
+				{
+					id: "1EE8A436051B0CBB"
+					item: { count: 1, id: "irons_spellbooks:fireward_ring" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 2.5d
+		}
+		{
+			id: "7FC498B5DDFD8500"
+			rewards: [{
+				id: "2989F841EFA5C0A8"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.3d
+			tasks: [
+				{
+					id: "7160EDE8E755919B"
+					item: { count: 1, id: "alshanex_familiars:statue_curio" }
+					type: "item"
+				}
+				{
+					id: "0A2C45DD712D2FB3"
+					item: { count: 1, id: "alshanex_familiars:invisibility_curio" }
+					type: "item"
+				}
+				{
+					id: "7855549DC234466C"
+					item: { count: 1, id: "alshanex_familiars:evasion_curio" }
+					type: "item"
+				}
+				{
+					id: "3EFCAB09237CCB1B"
+					item: { count: 1, id: "alshanex_familiars:healing_curio" }
+					type: "item"
+				}
+				{
+					id: "29F71C8A0DD386B2"
+					item: { count: 1, id: "irons_spellbooks:invisibility_ring" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 4.5d
+		}
+		{
+			id: "61ACAF91D4015A4E"
+			rewards: [{
+				id: "46DC7500368FFB74"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [
+				{
+					id: "7133665A2D6DAA4F"
+					item: { count: 1, id: "irons_spellbooks:cooldown_ring" }
+					type: "item"
+				}
+				{
+					id: "5CA612A09671CEF8"
+					item: { count: 1, id: "irons_spellbooks:cast_time_ring" }
+					type: "item"
+				}
+				{
+					id: "0C77A3B7020B9C17"
+					item: { count: 1, id: "irons_spellbooks:silver_ring" }
+					type: "item"
+				}
+				{
+					id: "65A5C46A48E8469F"
+					item: { count: 1, id: "irons_spellbooks:mana_ring" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 6.5d
+		}
+		{
+			id: "1B5966A6D00F42D9"
+			rewards: [{
+				id: "09CB183DB18100E5"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [
+				{
+					id: "67A30B38BABA3C57"
+					item: { count: 1, id: "iss_magicfromtheeast:bagua_mirror" }
+					type: "item"
+				}
+				{
+					id: "50A9D10F76C903FF"
+					item: { count: 1, id: "artifacts:crystal_heart" }
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			id: "24FE16788AAD170E"
+			rewards: [{
+				id: "7ECB3299B2E4B5CF"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [
+				{
+					id: "1FC1999C4307FC94"
+					item: { count: 1, id: "artifacts:obsidian_skull" }
+					type: "item"
+				}
+				{
+					id: "393C929F47721B54"
+					item: { count: 1, id: "artifacts:antidote_vessel" }
+					type: "item"
+				}
+				{
+					id: "6D680F31C718A45B"
+					item: { count: 1, id: "artifacts:chorus_totem" }
+					type: "item"
+				}
+				{
+					id: "629A63487164007B"
+					item: { count: 1, id: "iss_magicfromtheeast:coins_sword" }
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: 2.5d
+		}
+		{
+			id: "3467A667B8A55E00"
+			rewards: [{
+				id: "75F16C5067F79E08"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.3d
+			tasks: [
+				{
+					id: "692AC770D7CFF8E9"
+					item: { count: 1, id: "artifacts:cloud_in_a_bottle" }
+					type: "item"
+				}
+				{
+					id: "4D1FB917A26C8759"
+					item: { count: 1, id: "artifacts:universal_attractor" }
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: 4.5d
+		}
+		{
+			id: "1164ECE00370CB7B"
+			rewards: [{
+				id: "778A349FAAEBFC5F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [
+				{
+					id: "63CB0A3C97A8BDBE"
+					item: { count: 1, id: "artifacts:warp_drive" }
+					type: "item"
+				}
+				{
+					id: "36778E9D0800AB07"
+					item: { count: 1, id: "artifacts:helium_flamingo" }
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: 6.5d
+		}
+		{
+			id: "44B5EE463B467926"
+			rewards: [{
+				id: "231447DE6B7448D8"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [
+				{
+					id: "420ADFBCD6D65EC4"
+					item: { count: 1, id: "artifacts:bunny_hoppers" }
+					type: "item"
+				}
+				{
+					id: "02DDD53257C3FF17"
+					item: { count: 1, id: "artifacts:running_shoes" }
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			id: "469F6CC93F386C31"
+			rewards: [{
+				id: "2CCACC1E35D11026"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [
+				{
+					id: "0BDFB53C8C1E4001"
+					item: { count: 1, id: "artifacts:kitty_slippers" }
+					type: "item"
+				}
+				{
+					id: "49E94EAAF705B49B"
+					item: { count: 1, id: "artifacts:flippers" }
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 2.5d
+		}
+		{
+			id: "7A9D8CB5ED4A6B1C"
+			rewards: [{
+				id: "075979A5001AEF13"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.3d
+			tasks: [
+				{
+					id: "028820D3CC2B579F"
+					item: { count: 1, id: "artifacts:snowshoes" }
+					type: "item"
+				}
+				{
+					id: "45B4C7DA7D5931BB"
+					item: { count: 1, id: "artifacts:aqua_dashers" }
+					type: "item"
+				}
+				{
+					id: "6DC0D3B2B41FCAD1"
+					item: { count: 1, id: "artifacts:strider_shoes" }
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 4.5d
+		}
+		{
+			id: "4218F6E0430B190C"
+			rewards: [{
+				id: "4BB9C9858F0CCEB7"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "31738B998C54D518"
+				item: { count: 1, id: "artifacts:rooted_boots" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 6.5d
+		}
+		{
+			id: "1A1F4138D32ADC70"
+			rewards: [{
+				id: "67B8D95CDA69107D"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [
+				{
+					id: "5BD0E4D5B684C427"
+					item: { count: 1, id: "twilightforest:charm_of_life_2" }
+					type: "item"
+				}
+				{
+					id: "229A7525C9A3060B"
+					item: { count: 1, id: "beyonddimensions:net_terminal_item" }
+					type: "item"
+				}
+			]
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			id: "31D2F941929D88CD"
+			rewards: [{
+				id: "1A54464505E8E08F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "74FE2E92572B48E2"
+				item: { count: 1, id: "twilightforest:charm_of_keeping_3" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 2.5d
+		}
+		{
+			id: "60E6ED7ED056ABDD"
+			rewards: [{
+				id: "4E57D546E19ABF2A"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.3d
+			tasks: [{
+				id: "6B822DBE9955BF8F"
+				item: { count: 1, id: "twilightforest:charm_of_keeping_2" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 4.5d
+		}
+		{
+			id: "1ECC3AFD4ECADE42"
+			rewards: [{
+				id: "4D96139E28E3A7F1"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [
+				{
+					id: "2368F3BA86AE7311"
+					item: { count: 1, id: "twilightforest:charm_of_life_1" }
+					type: "item"
+				}
+				{
+					id: "2A9D1C35E59E8918"
+					item: { count: 1, id: "twilightforest:charm_of_keeping_1" }
+					type: "item"
+				}
+			]
+			x: 18.0d
+			y: 6.5d
+		}
+		{
+			id: "69BE2E1BCBE71766"
+			rewards: [{
+				id: "109689EAE9558929"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "2A76994152491E3F"
+				item: { components: { "irons_spellbooks:spell_container": { data: [ { id: "gametechbcs_spellbooks:nullflare", index: 0, level: 5, locked: 1b }, { id: "gametechbcs_spellbooks:aerial_collapse", index: 1, level: 5, locked: 1b } ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "gametechbcs_spellbooks:gtbcs_magical_repository" }
+				type: "item"
+			}]
+			x: 21.0d
+			y: 0.0d
+		}
+		{
+			id: "4385F7925457C289"
+			rewards: [{
+				id: "6DB294D0BC2ACAE6"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [
+				{
+					id: "6A5527B8DD2FA037"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 12, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:netherite_spell_book" }
+					type: "item"
+				}
+				{
+					id: "1198F275190812DB"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "alshanex_familiars:familiar_spellbook" }
+					type: "item"
+				}
+			]
+			x: 21.0d
+			y: 2.5d
+		}
+		{
+			id: "7B8C08F5F32626E1"
+			rewards: [{
+				id: "39AB605732A76B6C"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.3d
+			tasks: [
+				{
+					id: "6003E11678A7EC58"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "alshanex_familiars:sound_spell_book" }
+					type: "item"
+				}
+				{
+					id: "4A7371E5F138A132"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:blood_slash": 1, "irons_spellbooks:blood_step": 1 } }, "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:cursed_doll_spell_book" }
+					type: "item"
+				}
+				{
+					id: "02AD471E0679E4C6"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ { id: "irons_spellbooks:fang_strike", index: 0, level: 6, locked: 1b }, { id: "irons_spellbooks:fang_ward", index: 1, level: 4, locked: 1b }, { id: "irons_spellbooks:summon_vex", index: 2, level: 4, locked: 1b } ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:evoker_spell_book" }
+					type: "item"
+				}
+				{
+					id: "45BC3C7B1C31D3C8"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:blaze_spell_book" }
+					type: "item"
+				}
+				{
+					id: "4BC9BD62B9733D4D"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 12, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:dragonskin_spell_book" }
+					type: "item"
+				}
+				{
+					id: "66907C01EAEC7639"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:villager_spell_book" }
+					type: "item"
+				}
+				{
+					id: "2161E22ABA966C8E"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:druidic_spell_book" }
+					type: "item"
+				}
+			]
+			x: 21.0d
+			y: 4.5d
+		}
+		{
+			id: "11C9E6E6BAB0A735"
+			rewards: [{
+				id: "7EBB4F47858F1B15"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [
+				{
+					id: "6C920DCAE13BEA3F"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 6, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:iron_spell_book" }
+					type: "item"
+				}
+				{
+					id: "529AC6F3B2EC6A53"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 8, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:rotten_spell_book" }
+					type: "item"
+				}
+				{
+					id: "05531E136DFD0486"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 5, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:copper_spell_book" }
+					type: "item"
+				}
+				{
+					id: "463D2CE025B2E7B0"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:diamond_spell_book" }
+					type: "item"
+				}
+				{
+					id: "78314213BA9177EF"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 8, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:gold_spell_book" }
+					type: "item"
+				}
+			]
+			x: 21.0d
+			y: 6.5d
+		}
+		{
+			id: "39B6FDA08FEAC979"
+			rewards: [{
+				id: "0139A9AFE2ED4701"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 3.0d
+			tasks: [
+				{
+					id: "6874FC0C9BEE5E95"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:terraspark_boots" }
+					type: "item"
+				}
+				{
+					id: "63CE1EB5AFC8D4D7"
+					item: { count: 1, id: "terra_curio:bundle_of_horseshoe_balloons" }
+					type: "item"
+				}
+				{
+					id: "1A119EC9C03EBBAF"
+					item: { count: 1, id: "terra_curio:ankh_shield" }
+					type: "item"
+				}
+				{
+					id: "48730CD2F8386A42"
+					item: { count: 1, id: "terra_curio:celestial_starboard" }
+					type: "item"
+				}
+				{
+					id: "51E8182EC37D5434"
+					item: { count: 1, id: "terra_curio:destroyer_emblem" }
+					type: "item"
+				}
+				{
+					id: "0BD58FCF3DF6AE76"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:cell_phone" }
+					type: "item"
+				}
+				{
+					id: "05F5774256066FB3"
+					item: { count: 1, id: "terra_curio:celestial_shell" }
+					type: "item"
+				}
+				{
+					id: "2D307A669F71681B"
+					item: { count: 1, id: "terra_curio:putrid_scent" }
+					type: "item"
+				}
+				{
+					id: "6E537DFD517D9F93"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:hand_of_creation" }
+					type: "item"
+				}
+				{
+					id: "7CF3D7854D6B19F3"
+					item: { count: 1, id: "terra_curio:fire_gauntlet" }
+					type: "item"
+				}
+				{
+					id: "599B1A4A265016E9"
+					item: { count: 1, id: "terra_curio:master_ninja_gear" }
+					type: "item"
+				}
+				{
+					id: "72E8769FA6D09891"
+					item: { count: 1, id: "terra_curio:arctic_diving_gear" }
+					type: "item"
+				}
+				{
+					id: "3B4601B02B82ECEC"
+					item: { count: 1, id: "terra_curio:brain_of_confusion" }
+					type: "item"
+				}
+				{
+					id: "6F1E71325625408D"
+					item: { count: 1, id: "terra_curio:shield_of_cthulhu" }
+					type: "item"
+				}
+				{
+					id: "17E09424347E936C"
+					item: { count: 1, id: "terra_curio:worm_scarf" }
+					type: "item"
+				}
+				{
+					id: "37D377717FF749F5"
+					item: { count: 1, id: "terra_curio:recon_scope" }
+					type: "item"
+				}
+				{
+					id: "5F4896C40BC3444D"
+					item: { count: 1, id: "terra_curio:soaring_insignia" }
+					type: "item"
+				}
+				{
+					id: "4B418ACDA4CDB9B7"
+					item: { count: 1, id: "xfws_someitems:magnet_flower" }
+					type: "item"
+				}
+				{
+					id: "5B25018B2EAEB7CA"
+					item: { count: 1, id: "xfws_someitems:arcane_flower" }
+					type: "item"
+				}
+				{
+					id: "1FC6328D7C76B366"
+					item: { count: 1, id: "xfws_someitems:celestial_cuffs" }
+					type: "item"
+				}
+				{
+					id: "441F06F0B779D7E1"
+					item: { count: 1, id: "terra_curio:royal_gel" }
+					type: "item"
+				}
+				{
+					id: "6E68D92E3FC57959"
+					item: { count: 1, id: "terra_curio:hive_pack" }
+					type: "item"
+				}
+				{
+					id: "56225A680F007976"
+					item: { count: 1, id: "terra_curio:bone_glove" }
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: -6.0d
+		}
+		{
+			id: "24FD6F11C82C2688"
+			rewards: [{
+				id: "52A7DEB75B0D6DC9"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 3.0d
+			tasks: [
+				{
+					id: "7BDCA578DF37EB3D"
+					item: { count: 1, id: "terra_curio:jellyfish_diving_gear" }
+					type: "item"
+				}
+				{
+					id: "75C1E45A33E20E2E"
+					item: { count: 1, id: "terra_curio:frog_gear" }
+					type: "item"
+				}
+				{
+					id: "06B7E7D247EBAD81"
+					item: { count: 1, id: "terra_curio:shiny_stone" }
+					type: "item"
+				}
+				{
+					id: "0FF2A8735EAF6FE4"
+					item: { count: 1, id: "terra_curio:gravity_globe" }
+					type: "item"
+				}
+				{
+					id: "4378985010737BEF"
+					item: { count: 1, id: "terra_curio:molten_quiver" }
+					type: "item"
+				}
+				{
+					id: "54B227A5B476167E"
+					item: { count: 1, id: "terra_curio:stinger_necklace" }
+					type: "item"
+				}
+				{
+					id: "5C6F867FE93F4A76"
+					item: { count: 1, id: "terra_curio:frozen_shield" }
+					type: "item"
+				}
+				{
+					id: "2D196E9E4B83245E"
+					item: { count: 1, id: "terra_curio:berserkers_glove" }
+					type: "item"
+				}
+				{
+					id: "0BAF643F8D1BFD46"
+					item: { count: 1, id: "terra_curio:hero_shield" }
+					type: "item"
+				}
+				{
+					id: "134070A30CCE83F9"
+					item: { count: 1, id: "terra_curio:lava_waders" }
+					type: "item"
+				}
+				{
+					id: "69027599512D3542"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:frostspark_boots" }
+					type: "item"
+				}
+				{
+					id: "57572CC4A15CA276"
+					item: { count: 1, id: "terra_curio:bundle_of_balloons" }
+					type: "item"
+				}
+				{
+					id: "6A29565E58522DA9"
+					item: { count: 1, id: "terra_curio:ankh_charm" }
+					type: "item"
+				}
+				{
+					id: "2373EFD7E653D382"
+					item: { count: 1, id: "terra_curio:mechanical_glove" }
+					type: "item"
+				}
+				{
+					id: "2B38160EF1E39937"
+					item: { count: 1, id: "terra_curio:avenger_emblem" }
+					type: "item"
+				}
+				{
+					id: "0705696E21AF4B99"
+					item: { count: 1, id: "terra_curio:eye_of_the_golem" }
+					type: "item"
+				}
+				{
+					id: "3FA5621A82B3A228"
+					item: { count: 1, id: "terra_curio:celestial_stone" }
+					type: "item"
+				}
+				{
+					id: "18F6308025DA0A53"
+					item: { count: 1, id: "terra_curio:magic_mirror" }
+					type: "item"
+				}
+				{
+					id: "14954D1B853E91FC"
+					item: { count: 1, id: "terra_curio:obsidian_shield" }
+					type: "item"
+				}
+				{
+					id: "7A58CAA3303B846B"
+					item: { count: 1, id: "terra_curio:sniper_scope" }
+					type: "item"
+				}
+				{
+					id: "4E43AFD37F5E2EC8"
+					item: { count: 1, id: "terra_curio:tiger_climbing_gear" }
+					type: "item"
+				}
+				{
+					id: "0A0F17D0981A6AB2"
+					item: { count: 1, id: "terra_curio:stalkers_quiver" }
+					type: "item"
+				}
+				{
+					id: "4B159CCCDE5C1C80"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:pda" }
+					type: "item"
+				}
+				{
+					id: "242A51CFC402D2AF"
+					item: { count: 1, id: "xfws_someitems:magic_cuffs" }
+					type: "item"
+				}
+				{
+					id: "5DD254D746E34383"
+					item: { count: 1, id: "xfws_someitems:mana_regeneration_band" }
+					type: "item"
+				}
+				{
+					id: "492006B8DE376F92"
+					item: { count: 1, id: "xfws_someitems:mana_flower" }
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: -6.0d
+		}
+		{
+			id: "136C026EB4306742"
+			rewards: [{
+				id: "2DB41F90A0696DC3"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 3.0d
+			tasks: [
+				{
+					id: "0C7DFA89A05B97B4"
+					item: { count: 1, id: "terra_curio:jellyfish_necklace" }
+					type: "item"
+				}
+				{
+					id: "7F02D98218D687E0"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:ambhipian_boots" }
+					type: "item"
+				}
+				{
+					id: "10F4349BA81EB957"
+					item: { count: 1, id: "terra_curio:frog_webbing" }
+					type: "item"
+				}
+				{
+					id: "4899FC70045578A6"
+					item: { count: 1, id: "terra_curio:frog_flipper" }
+					type: "item"
+				}
+				{
+					id: "1BCC58D81824B259"
+					item: { count: 1, id: "terra_curio:pink_horseshoe_balloon" }
+					type: "item"
+				}
+				{
+					id: "0555F517D7B8FFDF"
+					item: { count: 1, id: "terra_curio:amber_horseshoe_balloon" }
+					type: "item"
+				}
+				{
+					id: "038F6D8F743C8509"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:lightning_boots" }
+					type: "item"
+				}
+				{
+					id: "09F1957A0FCD320F"
+					item: { count: 1, id: "terra_curio:obsidian_water_walking_boots" }
+					type: "item"
+				}
+				{
+					id: "6E163122050F0F34"
+					item: { count: 1, id: "terra_curio:panic_necklace" }
+					type: "item"
+				}
+				{
+					id: "757D80A2BC551D56"
+					item: { count: 1, id: "terra_curio:climbing_claws" }
+					type: "item"
+				}
+				{
+					id: "1D96C355EE150C8E"
+					item: { count: 1, id: "terra_curio:tabi" }
+					type: "item"
+				}
+				{
+					id: "04B17D19E30980B3"
+					item: { count: 1, id: "terra_curio:shoe_spikes" }
+					type: "item"
+				}
+				{
+					id: "55C20850FECE51B1"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:rek_3000" }
+					type: "item"
+				}
+				{
+					id: "49BA32DE510D36CC"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:goblin_tech" }
+					type: "item"
+				}
+				{
+					id: "7D3ED4E9D21415FE"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:fish_finder" }
+					type: "item"
+				}
+				{
+					id: "75F3F244767D5C85"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:gps" }
+					type: "item"
+				}
+				{
+					id: "08854FB540ED619D"
+					item: { count: 1, id: "terra_curio:molten_charm" }
+					type: "item"
+				}
+				{
+					id: "4506D43792978FD5"
+					item: { count: 1, id: "terra_curio:obsidian_rose" }
+					type: "item"
+				}
+				{
+					id: "0D2FACDB1D00C730"
+					item: { count: 1, id: "terra_curio:magma_stone" }
+					type: "item"
+				}
+				{
+					id: "53D60503D9FA5652"
+					item: { count: 1, id: "terra_curio:obsidian_horseshoe" }
+					type: "item"
+				}
+				{
+					id: "7BD7BD34EE91945F"
+					item: { count: 1, id: "terra_curio:blue_horseshoe_balloon" }
+					type: "item"
+				}
+				{
+					id: "154C7687AF9FF247"
+					item: { count: 1, id: "terra_curio:white_horseshoe_balloon" }
+					type: "item"
+				}
+				{
+					id: "2155D27E06467A38"
+					item: { count: 1, id: "terra_curio:yellow_horseshoe_balloon" }
+					type: "item"
+				}
+				{
+					id: "3DF3F6B3B57F12A5"
+					item: { count: 1, id: "terra_curio:green_horseshoe_balloon" }
+					type: "item"
+				}
+				{
+					id: "5749D69281958209"
+					item: { count: 1, id: "terra_curio:rifle_scope" }
+					type: "item"
+				}
+				{
+					id: "7362D83B8A9DC8CC"
+					item: { count: 1, id: "terra_curio:cobalt_shield" }
+					type: "item"
+				}
+				{
+					id: "331DE6C0647E0433"
+					item: { count: 1, id: "terra_curio:cross_necklace" }
+					type: "item"
+				}
+				{
+					id: "46D52A7E28B2742D"
+					item: { count: 1, id: "terra_curio:sorcerer_emblem" }
+					type: "item"
+				}
+				{
+					id: "5D6F237BF93007CC"
+					item: { count: 1, id: "terra_curio:warrior_emblem" }
+					type: "item"
+				}
+				{
+					id: "4461CD8172B0755C"
+					item: { count: 1, id: "terra_curio:ranger_emblem" }
+					type: "item"
+				}
+				{
+					id: "25F0F12B75608DF8"
+					item: { count: 1, id: "terra_curio:power_glove" }
+					type: "item"
+				}
+				{
+					id: "593F13C73F2CAAFB"
+					item: { count: 1, id: "terra_curio:paladins_shield" }
+					type: "item"
+				}
+				{
+					id: "14A820BB3BE0D461"
+					item: { count: 1, id: "terra_curio:flesh_knuckles" }
+					type: "item"
+				}
+				{
+					id: "7176A8F7913F19E0"
+					item: { count: 1, id: "terra_curio:moon_stone" }
+					type: "item"
+				}
+				{
+					id: "09B58E25CB358A73"
+					item: { count: 1, id: "terra_curio:star_veil" }
+					type: "item"
+				}
+				{
+					id: "5C8A8288036ED763"
+					item: { count: 1, id: "terra_curio:bee_cloak" }
+					type: "item"
+				}
+				{
+					id: "3C8886AC9B0E0675"
+					item: { count: 1, id: "terra_curio:explorers_equipment" }
+					type: "item"
+				}
+				{
+					id: "02FED1790BB49808"
+					item: { count: 1, id: "terra_curio:the_plan" }
+					type: "item"
+				}
+				{
+					id: "37282EBB03F92ACE"
+					item: { count: 1, id: "terra_curio:searchlight" }
+					type: "item"
+				}
+				{
+					id: "00C0F95270F03370"
+					item: { count: 1, id: "terra_curio:nutrient_solution" }
+					type: "item"
+				}
+				{
+					id: "73D3E9B10FB4E9CA"
+					item: { count: 1, id: "terra_curio:detoxification_capsule" }
+					type: "item"
+				}
+				{
+					id: "5DB29CCA425EB70A"
+					item: { count: 1, id: "terra_curio:moon_shell" }
+					type: "item"
+				}
+				{
+					id: "4EF74C99178D2EED"
+					item: { count: 1, id: "terra_curio:feral_claws" }
+					type: "item"
+				}
+				{
+					id: "5B810642884A01C7"
+					item: { count: 1, id: "terra_curio:titan_glove" }
+					type: "item"
+				}
+				{
+					id: "14512A20C49EE0DD"
+					item: { count: 1, id: "terra_curio:honey_comb" }
+					type: "item"
+				}
+				{
+					id: "6AF5F9ACD733B51F"
+					item: { count: 1, id: "terra_curio:frozen_turtle_shell" }
+					type: "item"
+				}
+				{
+					id: "213E5D114C7FD387"
+					item: { count: 1, id: "terra_curio:shark_tooth_necklace" }
+					type: "item"
+				}
+				{
+					id: "681102B65671AA06"
+					item: { count: 1, id: "terra_curio:magic_quiver" }
+					type: "item"
+				}
+				{
+					id: "1540791C04D70614"
+					item: { count: 1, id: "terra_curio:sweetheart_necklace" }
+					type: "item"
+				}
+				{
+					id: "22BFE79DC37DE5B3"
+					item: { count: 1, id: "terra_curio:sun_stone" }
+					type: "item"
+				}
+				{
+					id: "288619732FAB986B"
+					item: { count: 1, id: "xfws_someitems:nature_gift" }
+					type: "item"
+				}
+				{
+					id: "0BFE2D4DA4DE9997"
+					item: { count: 1, id: "xfws_someitems:ancient_fossil" }
+					type: "item"
+				}
+				{
+					id: "7687EBC51DEB6474"
+					item: { count: 1, id: "xfws_someitems:band_of_starpower" }
+					type: "item"
+				}
+				{
+					id: "7AE1FCA9042FB80B"
+					item: { count: 1, id: "xfws_someitems:sculk_megaphone" }
+					type: "item"
+				}
+				{
+					id: "6BA17935AA509671"
+					item: { count: 1, id: "xfws_someitems:celestial_magnet" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			hide_lock_icon: true
+			id: "79DBDE661A38E757"
+			rewards: [{
+				id: "3187CFCAFC4C3E5A"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 3.0d
+			tasks: [
+				{
+					id: "3CE461DD0BB45A1B"
+					item: { count: 1, id: "terra_curio:angler_earring" }
+					type: "item"
+				}
+				{
+					id: "3F3D77B276D1A7CE"
+					item: { count: 1, id: "terra_curio:treasure_magnet" }
+					type: "item"
+				}
+				{
+					id: "39D03BA8B76493F9"
+					item: { count: 1, id: "terra_curio:flower_boots" }
+					type: "item"
+				}
+				{
+					id: "286EA9B06733B828"
+					item: { count: 1, id: "terra_curio:diving_gear" }
+					type: "item"
+				}
+				{
+					id: "74563758F7FF93FC"
+					item: { count: 1, id: "terra_curio:flipper" }
+					type: "item"
+				}
+				{
+					id: "35FA1C69C4702C54"
+					item: { count: 1, id: "terra_curio:inner_tube" }
+					type: "item"
+				}
+				{
+					id: "242B454CEE57A5D6"
+					item: { count: 1, id: "terra_curio:lucky_horseshoe" }
+					type: "item"
+				}
+				{
+					id: "4FE97E5F8D8FDCEC"
+					item: { count: 1, id: "terra_curio:frog_leg" }
+					type: "item"
+				}
+				{
+					id: "131306D21C36A619"
+					item: { count: 1, id: "terra_curio:cloud_in_a_bottle" }
+					type: "item"
+				}
+				{
+					id: "19D5EC36F5124402"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:fairy_boots" }
+					type: "item"
+				}
+				{
+					id: "67E396A0B338CF62"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:spectre_boots" }
+					type: "item"
+				}
+				{
+					id: "0AD49DC0A5785EB6"
+					item: { count: 1, id: "terra_curio:rocket_boots" }
+					type: "item"
+				}
+				{
+					id: "5A4D9E8A7D7BD3DC"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:dunerider_boots" }
+					type: "item"
+				}
+				{
+					id: "5469BEF9279DC954"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:sailfish_boots" }
+					type: "item"
+				}
+				{
+					id: "2931F9C02601ED1D"
+					item: { count: 1, id: "terra_curio:honey_balloon" }
+					type: "item"
+				}
+				{
+					id: "2FEFA6ACFA308A28"
+					item: { count: 1, id: "terra_curio:sharkron_balloon" }
+					type: "item"
+				}
+				{
+					id: "523B76C240FB6834"
+					item: { count: 1, id: "terra_curio:fart_in_a_balloon" }
+					type: "item"
+				}
+				{
+					id: "2EBD350140C27417"
+					item: { count: 1, id: "terra_curio:sandstorm_in_a_balloon" }
+					type: "item"
+				}
+				{
+					id: "5A06D4086DB8693B"
+					item: { count: 1, id: "terra_curio:blizzard_in_a_balloon" }
+					type: "item"
+				}
+				{
+					id: "57FCEE6E1E96D406"
+					item: { count: 1, id: "terra_curio:cloud_in_a_balloon" }
+					type: "item"
+				}
+				{
+					id: "1B426BBB1DEFCE6C"
+					item: { count: 1, id: "terra_curio:balloon_pufferfish" }
+					type: "item"
+				}
+				{
+					id: "214549EBBFECDE02"
+					item: { count: 1, id: "terra_curio:shiny_red_balloon" }
+					type: "item"
+				}
+				{
+					id: "587735EB117B469F"
+					item: { count: 1, id: "terra_curio:tsunami_in_a_bottle" }
+					type: "item"
+				}
+				{
+					id: "1DED2A744593C516"
+					item: { count: 1, id: "terra_curio:magma_skull" }
+					type: "item"
+				}
+				{
+					id: "6394A848ECE5B0C4"
+					item: { count: 1, id: "terra_curio:lava_charm" }
+					type: "item"
+				}
+				{
+					id: "36BB19F3C36C5E18"
+					item: { count: 1, id: "terra_curio:magiluminescence" }
+					type: "item"
+				}
+				{
+					id: "03011539078D5551"
+					item: { count: 1, id: "terra_curio:anklet_of_the_wind" }
+					type: "item"
+				}
+				{
+					id: "04E8B9FD80240073"
+					item: { count: 1, id: "terra_curio:aglet" }
+					type: "item"
+				}
+				{
+					id: "7C162F915B1EA921"
+					item: { count: 1, id: "terra_curio:flying_carpet" }
+					type: "item"
+				}
+				{
+					id: "28FE0C4A0304AFDF"
+					item: { count: 1, id: "terra_curio:fart_in_a_jar" }
+					type: "item"
+				}
+				{
+					id: "7D9B61AEE8771C57"
+					item: { count: 1, id: "terra_curio:sandstorm_in_a_bottle" }
+					type: "item"
+				}
+				{
+					id: "0FAC806BDD26ACFC"
+					item: { count: 1, id: "terra_curio:blizzard_in_a_bottle" }
+					type: "item"
+				}
+				{
+					id: "7071F89D40E966E8"
+					item: { count: 1, id: "terra_curio:silver_watch" }
+					type: "item"
+				}
+				{
+					id: "21B9A63B77AD673C"
+					item: { count: 1, id: "terra_curio:copper_watch" }
+					type: "item"
+				}
+				{
+					id: "5FC1BE6CDA69BC63"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:depth_meter" }
+					type: "item"
+				}
+				{
+					id: "299A2AAFA20771EB"
+					item: { count: 1, id: "terra_curio:ice_skates" }
+					type: "item"
+				}
+				{
+					id: "7861218BD8BF815E"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:hermes_boots" }
+					type: "item"
+				}
+				{
+					id: "5ACB5B4AE0320734"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:flurry_boots" }
+					type: "item"
+				}
+				{
+					id: "6381A7FF1B41C3E4"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:life_form_analyzer" }
+					type: "item"
+				}
+				{
+					id: "03E49B3A763EDE16"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:tally_counter" }
+					type: "item"
+				}
+				{
+					id: "3E3FC7AC4C23BBDA"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:metal_detector" }
+					type: "item"
+				}
+				{
+					id: "6CA06DCDF87701AB"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:stopwatch" }
+					type: "item"
+				}
+				{
+					id: "716CB30292ADC929"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:dps_meter" }
+					type: "item"
+				}
+				{
+					id: "3EFCA23E1BA11BA8"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:weather_radio" }
+					type: "item"
+				}
+				{
+					id: "00865BDF88CFC5A1"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:fishermans_pocket_guide" }
+					type: "item"
+				}
+				{
+					id: "3AE9CBBB385562C0"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:sextant" }
+					type: "item"
+				}
+				{
+					id: "04BC5D56D242C743"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:step_stool" }
+					type: "item"
+				}
+				{
+					id: "776159CC646D649E"
+					item: { count: 1, id: "terra_curio:hand_warmer" }
+					type: "item"
+				}
+				{
+					id: "158B165A6F650021"
+					item: { count: 1, id: "terra_curio:toolbox" }
+					type: "item"
+				}
+				{
+					id: "5970FF7658E4203B"
+					item: { count: 1, id: "terra_curio:toolbelt" }
+					type: "item"
+				}
+				{
+					id: "77AC37048C12F1B3"
+					item: { count: 1, id: "terra_curio:shackle" }
+					type: "item"
+				}
+				{
+					id: "5DF6F131D1FC2967"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:radar" }
+					type: "item"
+				}
+				{
+					id: "0A153C34B755B0E7"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:compass" }
+					type: "item"
+				}
+				{
+					id: "4721FC83DFFEF613"
+					item: { components: { "confluence_magic_lib:nbt": { } }, count: 1, id: "terra_curio:gold_watch" }
+					type: "item"
+				}
+				{
+					id: "75AE353951820BA6"
+					item: { count: 1, id: "terra_curio:holy_water" }
+					type: "item"
+				}
+				{
+					id: "4EBEB4B802893012"
+					item: { count: 1, id: "terra_curio:bezoar" }
+					type: "item"
+				}
+				{
+					id: "1FCBAB70D5EA9C92"
+					item: { count: 1, id: "terra_curio:obsidian_skull_rose" }
+					type: "item"
+				}
+				{
+					id: "1B567F3C35717865"
+					item: { count: 1, id: "terra_curio:molten_skull_rose" }
+					type: "item"
+				}
+				{
+					id: "4807FBB9C8EC41B7"
+					item: { count: 1, id: "terra_curio:obsidian_skull" }
+					type: "item"
+				}
+				{
+					id: "1EFFEC3D3ECE123B"
+					item: { count: 1, id: "terra_curio:extendo_grip" }
+					type: "item"
+				}
+				{
+					id: "0DEA476FA3F5FA10"
+					item: { count: 1, id: "terra_curio:portable_cement_mixer" }
+					type: "item"
+				}
+				{
+					id: "6CCF382DC410474E"
+					item: { count: 1, id: "terra_curio:brick_layer" }
+					type: "item"
+				}
+				{
+					id: "328F24255F5A8661"
+					item: { count: 1, id: "terra_curio:architect_gizmo_pack" }
+					type: "item"
+				}
+				{
+					id: "079C2321077703CA"
+					item: { count: 1, id: "terra_curio:band_of_regeneration" }
+					type: "item"
+				}
+				{
+					id: "6BC350FB6EB704E6"
+					item: { count: 1, id: "terra_curio:ancient_chisel" }
+					type: "item"
+				}
+				{
+					id: "7F81E34A3BADAF50"
+					item: { count: 1, id: "terra_curio:moon_charm" }
+					type: "item"
+				}
+				{
+					id: "3965B1A29422FFAE"
+					item: { count: 1, id: "terra_curio:shot_put" }
+					type: "item"
+				}
+				{
+					id: "421FEA81D9A59D73"
+					item: { count: 1, id: "terra_curio:star_cloak" }
+					type: "item"
+				}
+				{
+					id: "138A64F30A21D299"
+					item: { count: 1, id: "terra_curio:black_belt" }
+					type: "item"
+				}
+				{
+					id: "16FBFFDAD9581403"
+					item: { count: 1, id: "terra_curio:neptunes_shell" }
+					type: "item"
+				}
+				{
+					id: "1BC08FE3D2E1D552"
+					item: { count: 1, id: "terra_curio:hand_drill" }
+					type: "item"
+				}
+				{
+					id: "69482A90F6009FC0"
+					item: { count: 1, id: "terra_curio:trifold_map" }
+					type: "item"
+				}
+				{
+					id: "0DA20E41C64D395E"
+					item: { count: 1, id: "terra_curio:fast_clock" }
+					type: "item"
+				}
+				{
+					id: "3F1D11246B048DAF"
+					item: { count: 1, id: "terra_curio:flashlight" }
+					type: "item"
+				}
+				{
+					id: "1EAD1671DC271903"
+					item: { count: 1, id: "terra_curio:blindfold" }
+					type: "item"
+				}
+				{
+					id: "66D41BFE8CE8A7EF"
+					item: { count: 1, id: "terra_curio:energy_bar" }
+					type: "item"
+				}
+				{
+					id: "43E1CB459624F474"
+					item: { count: 1, id: "terra_curio:vitamins" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"39B6FDA08FEAC979"
+				"24FD6F11C82C2688"
+				"136C026EB4306742"
+				"79DBDE661A38E757"
+			]
+			icon: {
+				id: "eternal_starlight:loot_bag"
+			}
+			id: "1CA4502D0B69550A"
+			rewards: [
+				{
+					id: "3A6EA92125B54259"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+				{
+					count: 192
+					id: "6355606EE1B02EC8"
+					item: {
+						count: 1
+						id: "dragonsurvival:elder_dragon_heart"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 4.0d
+			tasks: [{
+				id: "1B2D262908C7FA95"
+				type: "checkmark"
+			}]
+			x: 19.5d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"1B49BF139BC95806"
+				"2F3416393FD59904"
+				"0B21BEEF0BACA869"
+				"54A9EA09DB80D187"
+			]
+			icon: {
+				id: "eternal_starlight:loot_bag"
+			}
+			id: "517B7C0FB7C6E380"
+			rewards: [
+				{
+					id: "07A86A9ED55EAB2D"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 10
+					id: "004B620C2781379C"
+					item: {
+						count: 1
+						id: "dragonsurvival:elder_dragon_heart"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "1DCCE0E79FC6320E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"16B32CB0D55A9718"
+				"145D2D48D83B6D72"
+				"7C41D5EB11A83677"
+				"386CC89DE12CDBE2"
+			]
+			icon: {
+				id: "eternal_starlight:loot_bag"
+			}
+			id: "6CB7E3C2DE9FA1DC"
+			rewards: [
+				{
+					id: "3EAAFA339B29412B"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 10
+					id: "253BCAB8669D11E5"
+					item: {
+						count: 1
+						id: "dragonsurvival:elder_dragon_heart"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "43EAFCF2426B45B8"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"3E9235C058186DC1"
+				"41DB497093B18B47"
+				"4F9732AC25D1D1CA"
+				"61DA1759088CDA4D"
+			]
+			icon: {
+				id: "eternal_starlight:loot_bag"
+			}
+			id: "44DBC43AEBA8B676"
+			rewards: [
+				{
+					id: "729FF90DBA5B754D"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 10
+					id: "613A361AEA6438B2"
+					item: {
+						count: 1
+						id: "dragonsurvival:elder_dragon_heart"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "4F968516AFE8BA13"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"5D56B0917C5223A6"
+				"217D19EC778156E9"
+				"7FC498B5DDFD8500"
+				"61ACAF91D4015A4E"
+			]
+			icon: {
+				id: "eternal_starlight:loot_bag"
+			}
+			id: "762DDE9C0729E876"
+			rewards: [
+				{
+					id: "44E39501124A5A8A"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 10
+					id: "0D0310DD02522528"
+					item: {
+						count: 1
+						id: "dragonsurvival:elder_dragon_heart"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "6856CF375A9A856A"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"44B5EE463B467926"
+				"469F6CC93F386C31"
+				"7A9D8CB5ED4A6B1C"
+				"4218F6E0430B190C"
+			]
+			icon: {
+				id: "eternal_starlight:loot_bag"
+			}
+			id: "34155DB28754AEA6"
+			rewards: [
+				{
+					id: "1BB16051F7601E0F"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 10
+					id: "7CDAD7480EDF81BC"
+					item: {
+						count: 1
+						id: "dragonsurvival:elder_dragon_heart"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "3BACEB9E174299AD"
+				type: "checkmark"
+			}]
+			x: 15.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"1A1F4138D32ADC70"
+				"31D2F941929D88CD"
+				"60E6ED7ED056ABDD"
+				"1ECC3AFD4ECADE42"
+			]
+			icon: {
+				id: "eternal_starlight:loot_bag"
+			}
+			id: "17F6BAB9A64544C9"
+			rewards: [
+				{
+					id: "3BFE6636700BA07E"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 10
+					id: "389AF48F1F7E113F"
+					item: {
+						count: 1
+						id: "dragonsurvival:elder_dragon_heart"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "7341C165355B3812"
+				type: "checkmark"
+			}]
+			x: 18.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"69BE2E1BCBE71766"
+				"4385F7925457C289"
+				"7B8C08F5F32626E1"
+				"11C9E6E6BAB0A735"
+			]
+			icon: {
+				id: "eternal_starlight:loot_bag"
+			}
+			id: "2A93227E5737BF76"
+			rewards: [
+				{
+					id: "0A5786FD87841187"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 10
+					id: "1FF04122F4A9706E"
+					item: {
+						count: 1
+						id: "dragonsurvival:elder_dragon_heart"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "2499DC9A73A990AE"
+				type: "checkmark"
+			}]
+			x: 21.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"1B5966A6D00F42D9"
+				"24FE16788AAD170E"
+				"3467A667B8A55E00"
+				"1164ECE00370CB7B"
+			]
+			icon: {
+				id: "eternal_starlight:loot_bag"
+			}
+			id: "72D2474557AFE788"
+			rewards: [
+				{
+					id: "5273F12022DF223B"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 10
+					id: "2FEA9FF0362319C1"
+					item: {
+						count: 1
+						id: "dragonsurvival:elder_dragon_heart"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "11DAD53F00568CF2"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"517B7C0FB7C6E380"
+				"6CB7E3C2DE9FA1DC"
+				"44DBC43AEBA8B676"
+				"762DDE9C0729E876"
+				"72D2474557AFE788"
+				"34155DB28754AEA6"
+				"17F6BAB9A64544C9"
+				"2A93227E5737BF76"
+				"1CA4502D0B69550A"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				id: "terra_entity:developer_boomerang"
+			}
+			icon_scale: 2.0d
+			id: "42921D7314712236"
+			rewards: [{
+				id: "500C9859CF44124E"
+				item: {
+					count: 1
+					id: "terra_entity:developer_boomerang"
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "0A3867D0AE367B8F"
+				type: "checkmark"
+			}]
+			x: 10.5d
+			y: -10.5d
+		}
+	]
+}

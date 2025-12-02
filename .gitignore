@@ -26,10 +26,14 @@ servers.dat
 # ---- 仅追踪部分 config ----
 config/**
 
-!config/fancymenu/**
+!config/fancymenu/
+!config/ftbquests/
 !config/ftbquests/**
+!config/iceandfire/
 !config/iceandfire/**
+!config/incontrol/
 !config/incontrol/**
+!config/paxi/
 !config/paxi/**
 
 !config/carryon-client.toml
