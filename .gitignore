@@ -58,6 +58,7 @@ config/**
 !config/appleskin-client.toml
 !config/asteorbar-client.toml
 !config/asyncparticles.properties
+!config/beyonddimensions-common.toml
 !config/carryon-client.toml
 !config/carryon-common.toml
 !config/cataclysm.toml
