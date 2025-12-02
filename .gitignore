@@ -4,6 +4,7 @@ BeLoong-natives/
 CustomSkinLoader/
 defaultconfigs/
 downloads/
+dragonsurvival/
 dynamic-resource-pack-cache/
 fancymenu_data/
 local/
@@ -20,6 +21,7 @@ xaero/
 # ---- GitHub 忽略文件 ----
 BeLoong.jar
 BeLoong.json
+command_history.txt
 emi.json
 patchouli_data.json
 servers.dat
