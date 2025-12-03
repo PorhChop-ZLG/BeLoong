@@ -17,11 +17,11 @@
 	overlay: {
 		# Default: 2
 		# Range: -∞ ~ +∞
-		overlay_inset_x: 2
+		overlay_inset_x: 5
 		
 		# Default: 2
 		# Range: -∞ ~ +∞
-		overlay_inset_y: 2
+		overlay_inset_y: 15
 		
 		# Default: "top_left"
 		# Valid values: "top_left", "top", "top_right", "right", "bottom_right", "bottom", "bottom_left", "left"
