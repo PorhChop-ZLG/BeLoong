@@ -1,11 +1,13 @@
 # ---- GitHub 忽略文件夹 ----
+.git/
 .mixin.out/
 BeLoong-natives/
 crash-reports/
 CustomSkinLoader/
+datapacks/
 defaultconfigs/
 downloads/
-dragonsurvival/
+dragon-survival/
 dynamic-resource-pack-cache/
 fancymenu_data/
 local/
@@ -16,6 +18,7 @@ PCL/
 resourcepacks/
 saves/
 shaderpacks/
+slideshow/
 tlm_custom_pack/
 xaero/
 XaeroWaypoints_BACKUP240807/
