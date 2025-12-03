@@ -98,8 +98,11 @@
   "fdbosses.word.crash_game": "崩溃游戏",
   "fdbosses.word.start_fight": "开始BOSS战",
   "fdbosses.word.drops": "掉落",
-  "fdbosses.drops.chesed.lightning_core_description": "「慈悲」汲取能量的核心。\n\n可在工作台中与任意武器结合。\n\n使用强化武器攻击时，有概率召唤武器幻影攻击目标，造成固定比例的武器伤害并施加 {{(fdbosses:effect)id=fdbosses:shocked}} 效果。",
-  "fdbosses.drops.chesed.lightning_core_stats": "感电：\n{{(fdlib:image)path=fdbosses:boss_damage}}: {{(fdbosses:config_float) config=effectConfig, value=shockDamageReductionPercent}}% 输出伤害减免。\n{{(fdlib:image)path=fdbosses:boss_duration}}: {{(fdbosses:config_float) config=itemConfig, value=lightningStrikeShockDuration}} 游戏刻。\n\n闪电：\n{{(fdlib:image)path=fdbosses:boss_damage}}: {{(fdbosses:config_float) config=itemConfig, value=lightningStrikeDamagePercent}}% 的武器伤害。\n\n召唤概率：{{(fdbosses:config_float) config=itemConfig, value=chanceToSummonLightningStrike}}%",
+
+  "fdbosses.boss_drop.fdbosses.chesed.fdbosses.lightning_core.info": "「慈悲」汲取能量的核心。\n\n可在工作台中与任意武器结合。\n\n使用强化武器攻击时，有概率召唤武器幻影攻击目标，造成固定比例的武器伤害并施加 {{(fdbosses:effect)id=fdbosses:shocked}} 效果。",
+  "fdbosses.boss_drop.fdbosses.chesed.fdbosses.lightning_core.stats": "感电：\n{{(fdlib:image)path=fdbosses:boss_damage}}: {{(fdbosses:config_float) config=effectConfig, value=shockDamageReductionPercent}}% 输出伤害减免。\n{{(fdlib:image)path=fdbosses:boss_duration}}: {{(fdbosses:config_float) config=itemConfig, value=lightningStrikeShockDuration}} 游戏刻。\n\n闪电：\n{{(fdlib:image)path=fdbosses:boss_damage}}: {{(fdbosses:config_float) config=itemConfig, value=lightningStrikeDamagePercent}}% 的武器伤害。\n\n召唤概率：{{(fdbosses:config_float) config=itemConfig, value=chanceToSummonLightningStrike}}%",
+  "fdbosses.boss_drop.fdbosses.chesed.fdbosses.chesed_trophy.info": "「慈悲」的奖杯，用以彰显你的英雄事迹",
+
   "fdbosses.skills.chesed.electrified_air": "电离空域",
   "fdbosses.skills.chesed.electrified_air_description": "「慈悲」上方的空气充满电离能量，接触者将受到伤害。",
   "fdbosses.skills.chesed.electrified_air_stats": "电离：\n{{(fdlib:image)path=fdbosses:boss_damage}}: {{(fdbosses:config_float) config=chesedConfig, value=electrifiedAirCurrentHealthDamagePercent}}%当前生命值\n\n当生命值低于 {{(fdbosses:config_float) config=chesedConfig, value=electrifiedAirInstadeathHP}}时立即消灭目标。",
@@ -116,7 +119,6 @@
   "advancements.qliphoth_awakening.chesed.description": "不慈悲者，绝不留情",
   "advancements.qliphoth_awakening.malkuth.title": "王国",
   "advancements.qliphoth_awakening.malkuth.description": "怒焰噬心，众叛亲离，王国沙皇，终享安宁",
-  "fdbosses.drops.chesed.trophy_description": "「慈悲」的奖杯，用以彰显你的英雄事迹",
   "fdbosses.word.tried_to_break_arena": "一股邪恶的力量阻止你破坏这个地方。",
   "fdbosses.tldr.chesed": "「慈悲」的攻击会穿透护甲和盾牌。\n\n要想伤害「慈悲」：\n\n等待“闪电射线”攻击时，用斧子摧毁水晶以获得{{(fdbosses:effect)id=fdbosses:chesed_energized,level=1}}效果，然后跑向“射线反射器”让「慈悲」的攻击命中它。拥有{{(fdbosses:effect)id=fdbosses:chesed_energized}}效果时免疫“闪电射线”攻击。\n\n慈悲有一招攻击，伤害取决于已激活的“慈悲巨柱”的数量——若全部巨柱激活则必死无疑。摧毁巨柱可使其失效。",
   "fdbosses.word.tldr": "BOSS简介",
@@ -167,9 +169,11 @@
   "fdbosses.word.patreon": "在Patreon上支持模组开发（Shift点击查看赞助者）",
   "fdbosses.word.boosty": "在Boosty上支持模组开发（Shift点击查看支持者）",
   "fdbosses.word.socials_word": "社区",
-  "fdbosses.drops.chesed.fire_and_ice_core_stats": "伤害：\n{{(fdlib:image)path=fdbosses:boss_damage}}：武器伤害的 {{(fdbosses:config_float) config=itemConfig, value=playerMalkuthFireballToolDamagePercent}}%。\n\n物品技能冷却：\n{{(fdlib:image)path=fdbosses:boss_duration}}：{{(fdbosses:config_float) config=itemConfig, value=playerMalkuthFireballAbilityCooldown}} tick",
-  "fdbosses.drops.chesed.fire_and_ice_core_description": "「王国」的核心。\n\n可在工作台中与任意武器结合，使其能够召唤「王国」的火球，造成固定比例的武器伤害。\n\n使用物品可释放火球，点燃目标。\n\n潜行使用物品可释放冰球，减速目标。",
-  "fdbosses.drops.malkuth.trophy_description": "「王国」的奖杯，用以彰显你的英雄事迹",
+
+  "fdbosses.boss_drop.fdbosses.malkuth.fdbosses.fire_and_ice_core.stats": "伤害：\n{{(fdlib:image)path=fdbosses:boss_damage}}：武器伤害的 {{(fdbosses:config_float) config=itemConfig, value=playerMalkuthFireballToolDamagePercent}}%。\n\n物品技能冷却：\n{{(fdlib:image)path=fdbosses:boss_duration}}：{{(fdbosses:config_float) config=itemConfig, value=playerMalkuthFireballAbilityCooldown}} tick",
+  "fdbosses.boss_drop.fdbosses.malkuth.fdbosses.fire_and_ice_core.info": "「王国」的核心。\n\n可在工作台中与任意武器结合，使其能够召唤「王国」的火球，造成固定比例的武器伤害。\n\n使用物品可释放火球，点燃目标。\n\n潜行使用物品可释放冰球，减速目标。",
+  "fdbosses.boss_drop.fdbosses.malkuth.fdbosses.malkuth_trophy.info": "「王国」的奖杯，用以彰显你的英雄事迹",
+
   "fdbosses.tldr.malkuth": "「王国」无法被直接攻击。\n\n当玩家的弱点是§c火焰§r时，\n减少受到的§b冰霜§r伤害；\n当玩家的弱点是§b冰霜§r时，\n减少受到的§c火焰§r伤害。\n\n可在准星上查看当前弱点。\n\n只能通过竞技场内的火炮攻击「王国」，\n只能使用与当前弱点属性相同的火炮。",
   "fdbosses.word.patrons": "赞助者",
   "fdbosses.word.boosters": "助力者",
