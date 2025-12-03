@@ -50,6 +50,7 @@
   "ftblibrary.select_image.scanning": "正在扫描图像：可能需要几秒钟...",
   "ftblibrary.select_image.rescan": "重新扫描图像",
   "ftblibrary.select_image.all_images": "所有图像",
+  "ftblibrary.select_entity.all_entities": "所有实体",
   "ftblibrary.unsaved_changes": "是否放弃未保存的更改？",
   "config.group.value": "参数",
   "sidebar_button.ftblibrary.toggle.gamemode": "切换游戏模式",
