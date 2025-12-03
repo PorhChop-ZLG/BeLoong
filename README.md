@@ -6,7 +6,7 @@
 <a id="中文版本"></a>
 # 🐉『化龍』— 以龙为主题的《我的世界》整合包 🐉
 
-我们欢迎任何人一起开发这个项目。你可以以下这些方面提供帮助：
+我们欢迎任何人一起开发这个项目。
 
 ## 如何贡献
 
@@ -36,7 +36,7 @@
 <a id="english-version"></a>
 # 🐉『BeLoong』- A Dragon-Themed Modpack 🐉
 
-We welcome anyone to contribute to this project. You can help in the following areas:
+We welcome anyone to contribute to this project.
 
 ## How to Contribute
 
