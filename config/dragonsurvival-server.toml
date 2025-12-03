@@ -356,6 +356,8 @@
 [penalties]
 	#If enabled dragons will be limited to riding the entities in the entity tag 'dragonsurvival:vehicle_whitelist'
 	limited_riding = false
+	#Enable / Disable the penalty system
+	enable_penalties = true
 
 [general]
 	#If enabled the items in the claw inventory will not drop on death
@@ -479,6 +481,10 @@
 		# Default: 1200
 		# Range: > 0
 		dragon_soul_cooldown = 0
+		#Default animation for the soul block
+		soul_block_default_animation = "sit"
+		#Enables the placement of dragon souls
+		enable_dragon_soul_placement = true
 
 [debug]
 	#If enabled vaults will immediately update their state

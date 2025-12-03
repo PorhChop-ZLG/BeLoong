@@ -58,6 +58,16 @@
 		# Range: > -2147483648
 		spin_cooldown_x_offset = 0
 
+	[ui.dragon_soul]
+		#Offset to the y position of the dragon soul bar indicator
+		# Default: 0
+		# Range: > -2147483648
+		dragon_soul_bar_y_offset = 0
+		#Offset to the x position of the dragon soul bar indicator
+		# Default: 0
+		# Range: > -2147483648
+		dragon_soul_bar_x_offset = 0
+
 [tooltips]
 	#Determines how dragon food tooltip is handled
 	#none: no food tooltip / default: always show current and others when shift is pressed / only_current: never show others / all_shift: show current and others only when shift is pressed
@@ -104,7 +114,7 @@
 	backpack_slot = "back"
 	#enable / disable backpack rendering
 	render_backpack = true
-	#If enabled held items will be rendered neat the mouth of the dragon
+	#If enabled held items will be rendered near the mouth of the dragon
 	#If disabled held items will be displayed on the side of the dragon
 	render_items_in_mouth = false
 	#If enabled your custom dragon skin will be rendered
@@ -127,6 +137,8 @@
 	# Default: 0.15000000596046448
 	# Range: 0.0 ~ 2.0
 	dragon_camera_scale_factor = 0.15000000596046448
+	#Renders the soul block base if enabled, as a visual indicator for the actual block
+	enable_soul_block_indicator = true
 
 [animation]
 	#The amount by which the movement animation speed factor is multiplied. 1.0 represents the animation speed accurately reflecting the speed of your movement.
