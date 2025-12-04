@@ -20,8 +20,9 @@
 
 - **制作本地化翻译**
   - **任务（FTB Quests）的翻译**：在 `config/ftbquests/quests/lang/` 处提交，以 `zh_cn.snbt`（中文）为基准进行翻译。
+  - **对话（Chatbox）的翻译**：在 `kubejs/assets/beloong/lang/` 处提交，以 `zh_cn.json`（中文）为基准进行翻译。
   - **模组（Mods）的翻译**：在 `kubejs/assets/<模组命名空间>/lang/` 处提交，以 `en_us.json`（英文）为基准进行翻译。
-  - **其他内容的翻译**：例如整合包自制的物品、新增的技能、对话系统、特色魔改等，在 `kubejs/assets/kubejs/lang/` 处提交，以 `zh_cn.json`（中文）为基准进行翻译。
+  - **其他内容的翻译**：例如整合包自制的物品、新增的技能、特色魔改等，在 `kubejs/assets/kubejs/lang/` 处提交，以 `zh_cn.json`（中文）为基准进行翻译。
 
 - **制作数据包**：在 `/config/paxi/datapacks/` 处提交。
 
@@ -50,6 +51,7 @@ Here are the detailed ways to contribute:
 
 - **Creating Localization Translations**
   - **FTB Quests Translations**: Submit in `config/ftbquests/quests/lang/`, using `zh_cn.snbt` (Chinese) as the base for translation.
+  - **Chatbox Translations**: Submit in `kubejs/assets/beloong/lang/`, using `zh_cn.json` (Chinese) as the base for translation.
   - **Mods Translations**: Submit in `kubejs/assets/<mod namespace>/lang/`, using `en_us.json` (English) as the base for translation.
   - **Translations for Other Content**: For example, custom items, added skills, dialogue systems, unique modifications, etc., submit in `kubejs/assets/kubejs/lang/`, using `zh_cn.json` (Chinese) as the base for translation.
 
