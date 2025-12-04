@@ -18,6 +18,8 @@
   "item.kubejs.abeemination": "憎恶之蜂",
   "item.kubejs.abeemination.tooltip": "只能在深暗之园的特定结构处召唤蜂王",
 
+  "tag.item.c.jades": "玉",
+
   "message.kubejs.back": "输入 /back 返回上次死亡的地方",
   "message.kubejs.starter_hut": "新手小屋已生成，欢迎回家。",
   "message.kubejs.longyin_pavilion": "龙吟阁已生成，欢迎回家。",

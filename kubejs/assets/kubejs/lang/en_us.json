@@ -18,6 +18,8 @@
   "item.kubejs.abeemination": "Abeemination",
   "item.kubejs.abeemination.tooltip": "Can only be used in the Undergarden",
 
+  "tag.item.c.jades": "Jade",
+
   "message.kubejs.back": "Type /back to return to your death point",
   "message.kubejs.starter_hut": "The starter hut has been generated. Welcome home.",
   "message.kubejs.longyin_pavilion": "The Longyin Pavilion has been generated. Welcome home.",

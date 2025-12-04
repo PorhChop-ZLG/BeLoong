@@ -1,4 +1,4 @@
-// 该脚本用于 魔改群青模组的配方
+// 该脚本用于魔改 群青 的配方
 ServerEvents.recipes(event => {
     // 东方秘术的玉 合成 群青的玉
     event.shapeless(
